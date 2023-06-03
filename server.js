@@ -1,3 +1,8 @@
+/*file name: server.js
+*Student name: Yu Him Jonathan Chak
+*Student ID: 301273965
+*Date : JUN 2 2023
+*/
 process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 var express = require('./config/express');
 var app = express();
